@@ -26,5 +26,8 @@ h1{
   
   a[href*='seoul'] {
     color: lightpink;
+  }
+  a:hover{
+    color:darkorange;
   }  
   
