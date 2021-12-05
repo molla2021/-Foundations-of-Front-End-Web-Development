@@ -1,21 +1,27 @@
 * {
     border: 1px solid red;
   }
-p {
-        color: green;
-      }  
-h1{
-    color:maroon;
-}
-.title{
-    color:teal;
-  } 
-  .uppercase{
-      text-transform: uppercase;
-  }  
-  #article-title{
-      font-family: cursive;
-  } 
+  
+  p {
+    color: green;
+  }
+  
+  h1 {
+    color: maroon;
+  }
+  
+  .title {
+    color: teal;
+  }
+  
+  .uppercase {
+    text-transform: uppercase;
+  }
+  
+  #article-title {
+    font-family: cursive;
+  }
+  
   a[href*='florence'] {
     color: lightgreen;
   }
@@ -27,11 +33,28 @@ h1{
   a[href*='seoul'] {
     color: lightpink;
   }
-  a:hover{
+  
+  a:hover {
     color:darkorange;
-  }  
+  }
+  
   .heading-background {
     background-color: aqua;
   }
   
+  #publish-time {
+    color: lightgray;
+  }
+  
+  h5 {
+    color: yellow;
+  }
+  
+  .author-class {
+    color: pink;
+  }
+  
+  #author-id {
+    color: cornflowerblue;
+  }
   
